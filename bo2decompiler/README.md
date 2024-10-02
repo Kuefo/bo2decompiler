@@ -1,6 +1,4 @@
-bo2_gsc_reader
+bo2 decompiler
 ==============
 
 A Black Ops 2 GSC decompiler, still in development!
-
-See Credits.txt to see who contributed to this project!
